@@ -1,9 +1,6 @@
 # Potatso ![GPLv3 License](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
-## Important
 
-Please read [this](https://github.com/haxpor/Potatso/blob/master/ADHERE_LICENSE.md) first before you do anything with this project.  
-In short, you need to respect to license of the project. You cannot copy the source code and publish to App Store.
 
 ---
 
